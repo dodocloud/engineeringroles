@@ -13,6 +13,8 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 
 > Also, Ladder does not introduce a hierarchy. Responsibility for a delivering value is on the whole team and all levels of the developers are equal - the goal of ladder is establishing a road for career development, to set an expectations and give a points to disuss on regular 1-1 meetings.
 
+> Boundary of the ladder is a team. We apreciate a feedback from other teams on team members and they are part of assessment, but as the team function differs across the teams, any attempt to make levels same across the company will be difficult.
+
 > As a additional metric to the Ladder, we have a system of Badges, currently under the development. Badges will mark exceptional qualities not described in the Ladder, usually a technical abilities like deep knowledge of Elastic or being an ambassador of BDD aproach.
 
 
