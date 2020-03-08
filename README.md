@@ -2,6 +2,8 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 
 > System is created as exception based, meaning that we don't assume that we have a people fitting all of the points. Therefore, discussion about level is goal based, not proof based, e.g. "We see you at level 3, but for that we need you to be more active on a feature refinement meetings". We can also mark some trait as an exception in specific case, like "You are a great architect and we don't expect that you will speak publicly, even if it is described in the Ladder as a requirement".
 
+Core of the ladder is a system of levels for developers. Top level is curretly level 4, which is equal to the roles of Engineering Manager and both Architect roles (they are different roles, not levels). Upgrade path to the manager/architect roles and change to positions in different departments is generally possible, but this is out of scope of the ladder.
+
 | scope/level    | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 | Skills |
 |----------------|---------|---------|---------|---------|---------|---------|
 | delivery         |   0-1   |    1    |    2    |    3    |    4    | Scoping and prioritization, Testing and monitoring, Shipping to production, Initiative |
