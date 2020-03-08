@@ -1,6 +1,6 @@
 This repo contains a list of Socialbakers Engineering titles, roles, and associated responsibilities, also known as The Ladder.
 
-> System is exception based, meaning that we don't assume that we have a people fitting all of points. Therefore, discussion about level is goal based, not proof based, e.g. "We see you at level 3, but for that we need you to be more active on a feature refinement meetings". We can also mark some trait as an exception in a meaning of "You are a great architect and we don't expect that you will speak publicly, even if it is described in the Ladder". 
+> System is created as exception based, meaning that we don't assume that we have a people fitting all of the points. Therefore, discussion about level is goal based, not proof based, e.g. "We see you at level 3, but for that we need you to be more active on a feature refinement meetings". We can also mark some trait as an exception in specific case, like "You are a great architect and we don't expect that you will speak publicly, even if it is described in the Ladder as a requirement".
 
 | scope/level    | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 | Skills |
 |----------------|---------|---------|---------|---------|---------|---------|
@@ -13,7 +13,9 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 
 > Also, Ladder does not introduce a hierarchy. Responsibility for a delivering value is on the whole team and all levels of the developers are equal - the goal of ladder is establishing a road for career development, to set an expectations and give a points to disuss on regular 1-1 meetings.
 
-> Boundary of the ladder is a team. We apreciate a feedback from other teams on team members and they are part of assessment, but as the team function differs across the teams, any attempt to make levels same across the company will be difficult.
+> Boundary of the ladder is a team. We apreciate a feedback from other teams on team members and they are part of assessment, but as the team function differs across the teams, any attempt to make levels same across the company will be difficult as the teams have a different functionality and require different, uncomparable knowledge. 
+
+> Therefore, way we assign the levels is a team assesment. Team members will make a peer assessment based on scopes decribed in table above. Some higher levels would be also assessed by a members of wider team, including PO and Architects.
 
 > As a additional metric to the Ladder, we have a system of Badges, currently under the development. Badges will mark exceptional qualities not described in the Ladder, usually a technical abilities like deep knowledge of Elastic or being an ambassador of BDD aproach.
 
