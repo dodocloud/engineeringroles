@@ -17,7 +17,7 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 
 > Therefore, way we assign the levels is a team assesment. Team members will make a peer assessment based on scopes decribed in table above. Some higher levels would be also assessed by a members of wider team, including PO and Architects.
 
-> As a additional metric to the Ladder, we have a system of Badges, currently under the development. Badges will mark exceptional qualities not described in the Ladder, usually a technical abilities like deep knowledge of Elastic or being an ambassador of BDD aproach.
+> As a additional metric to the Ladder, we have a system of Badges. Badges will mark exceptional qualities not described in the Ladder, usually a technical abilities like deep knowledge of Elastic or being an ambassador of BDD aproach.
 
 
 
