@@ -1,8 +1,5 @@
 # Badges!
 
-![alt text](Badges.jpg "Badges!")
-
-
 ### What are badges?
 The badges are a complement system to the Ladder - while ladder outlines career paths, the badges reward behaviors and achievements we respect and appreciate in our fellows.
 
