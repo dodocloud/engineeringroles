@@ -6,12 +6,12 @@ Core of the ladder is a system of levels for developers. Top level is curretly l
 
 | scope/level    | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 | Skills |
 |----------------|---------|---------|---------|---------|---------|---------|
-| delivery         |   0-1   |    1    |    2    |    3    |    4    | Scoping and prioritization, Testing and monitoring, Shipping to production, Initiative |
-| domain expertise   |   0-1   |   0-1   |   1-2   |   2-4   |   3-4   | Knowledge of your discipline (e.g. Payments, AppSec, Provisioning, Machine Learning), Language, Tools, Business and product sense |
-| problem solving     |   0-1   |   0-1   |   0-2   |   1-3   |   2-4   | Architecture & design patterns, Breaking down large problems, Critical thinking, Analytical skills, Creativity, Decision making |
-| communication  |   0-1   |    1    |   1-2   |   2-3   |   3-4   | Documentation, Collaboration, Relationship-building, Interviewing, Listening, Empathy |
-| leadership  |   0-1   |    1    |   1-2   |   2-3   |   3-4   |Accountability, Responsibility, Mentorship, Making hard decisions, Setting an example |
-| **min SUM**    |  **2**  |  **5**  |  **8**  |  **14** |  **20** ||
+| delivery         |   ☆☆☆☆   |    ★☆☆☆    |    ★★☆☆    |    ★★★☆    |    ★★★★    | Scoping and prioritization, Testing and monitoring, Shipping to production, Initiative |
+| domain expertise   |   ★☆☆☆   |   ★★☆☆   |   ★★☆☆   |   ★★★☆   |   ★★★★   | Knowledge of your discipline (e.g. Payments, AppSec, Provisioning, Machine Learning), Language, Tools, Business and product sense |
+| problem solving     |   ★☆☆☆   |   ★☆☆☆   |   ★★☆☆   |   ★★★☆  |   ★★★☆   | Architecture & design patterns, Breaking down large problems, Critical thinking, Analytical skills, Creativity, Decision making |
+| communication  |   ★☆☆☆   |    ★☆☆☆    |  ★☆☆☆   |   ★★★☆   |  ★★★★   | Documentation, Collaboration, Relationship-building, Interviewing, Listening, Empathy |
+| leadership  |   ★☆☆☆   |    ★☆☆☆    |   ★☆☆☆   |   ★★☆☆   |   ★★★★   |Accountability, Responsibility, Mentorship, Making hard decisions, Setting an example |
+| **min stars**    |  **2**  |  **5**  |  **8**  |  **12** |  **16** ||
 
 > Also, Ladder does not introduce a hierarchy. Responsibility for a delivering value is on the whole team and all levels of the developers are equal - the goal of ladder is establishing a road for career development, to set an expectations and give a points to disuss on regular 1-1 meetings.
 
