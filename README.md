@@ -7,7 +7,7 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 | scope/level    | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 | Skills |
 |----------------|---------|---------|---------|---------|---------|---------|
 | delivery         |   ☆☆☆☆   |    ★☆☆☆    |    ★★☆☆    |    ★★★☆    |    ★★★★    | Scoping and prioritization, Testing and monitoring, Shipping to production, Initiative |
-| domain expertise   |   ★☆☆☆   |   ★★☆☆   |   ★★☆☆   |   ★★★☆   |   ★★★★   | Knowledge of your discipline (e.g. Payments, AppSec, Provisioning, Machine Learning), Language, Tools, Business and product sense |
+| domain expertise   |   ★☆☆☆   |   ★★☆☆   |   ★★☆☆   |   ★★★☆   |   ★★★★   | Knowledge of your discipline Knowledge of your discipline (e.g. web development, microservices, databases), Language, Tools, Business and product sense |
 | problem solving     |   ★☆☆☆   |   ★☆☆☆   |   ★★☆☆   |   ★★★☆  |   ★★★☆   | Architecture & design patterns, Breaking down large problems, Critical thinking, Analytical skills, Creativity, Decision making |
 | communication  |   ★☆☆☆   |    ★☆☆☆    |  ★☆☆☆   |   ★★★☆   |  ★★★★   | Documentation, Collaboration, Relationship-building, Interviewing, Listening, Empathy |
 | leadership  |   ★☆☆☆   |    ★☆☆☆    |   ★☆☆☆   |   ★★☆☆   |   ★★★★   |Accountability, Responsibility, Mentorship, Making hard decisions, Setting an example |
