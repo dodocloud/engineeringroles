@@ -21,12 +21,6 @@ Do: Performed 1000 code reviews
 Don't: Performed a code review in full plate armor [^1]
 
 
-
 ### What are the badges for?
 The Ladder exists to make career progression at Socialbakers engineering department more transparent and easier to understand, and it rewards technical excellence alongside effective behaviors and communication skills.
 There are things that we sometimes do, however, that are great and should be celebrated that do not immediately contribute to promotion chances - being an exceptional code reviewer,
-
-
-
-
-[^1]: That's an awesome achievement though, and should someone do this post pictures on Slack
